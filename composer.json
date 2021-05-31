@@ -1,6 +1,6 @@
 {
     "name": "nlib/lib-struct",
-    "description": "Struct Tool",
+    "description": "Library Struct",
     "license": "MIT",
     "require": {
         "php": "^7.1.3"
